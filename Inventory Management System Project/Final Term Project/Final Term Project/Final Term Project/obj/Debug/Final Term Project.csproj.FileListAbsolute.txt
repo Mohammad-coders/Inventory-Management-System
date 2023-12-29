@@ -1,0 +1,20 @@
+D:\OOP2\Final Term Project\Final Term Project\bin\Debug\Final Term Project.exe.config
+D:\OOP2\Final Term Project\Final Term Project\bin\Debug\Final Term Project.exe
+D:\OOP2\Final Term Project\Final Term Project\bin\Debug\Final Term Project.pdb
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final Term Project.csproj.AssemblyReference.cache
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final Term Project.csproj.SuggestedBindingRedirects.cache
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Form1.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Form2_Registration.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Properties.Resources.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final Term Project.csproj.GenerateResource.cache
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final Term Project.csproj.CoreCompileInputs.cache
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final Term Project.exe
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final Term Project.pdb
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Form4_Patient_Info.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Form_Department.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Form_Doctors_Info.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Form_DepartmentInfoView.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Form_Doctor_Info_View.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Form_Patient_Info_View.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Patient_Informations.resources
+D:\OOP2\Final Term Project\Final Term Project\obj\Debug\Final_Term_Project.Office_Informations.resources
